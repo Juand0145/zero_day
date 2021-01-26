@@ -1,0 +1,1 @@
+Here we will learn the comandos of the editor text "vi"
