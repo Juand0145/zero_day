@@ -1,1 +1,1 @@
-Emacs tutorial, or document that proves I know the basics of Emacs
+Know the basic commands of emacs
